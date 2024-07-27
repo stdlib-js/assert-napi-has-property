@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi-has-property",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Assert that a Node-API value has a specified property.",
   "license": "Apache-2.0",
   "author": {
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
