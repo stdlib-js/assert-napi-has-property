@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi-has-property",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Assert that a Node-API value has a specified property.",
   "license": "Apache-2.0",
   "author": {
